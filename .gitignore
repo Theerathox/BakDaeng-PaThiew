@@ -1,0 +1,52 @@
+# Unity generated folders (rebuilt automatically when the project is opened)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# work files that are not part of the game
+/[Aa]ssets/Claude outputs/
+/[Aa]ssets/Claude outputs.meta
+/[Aa]ssets/PropArt (unused)/
+/[Aa]ssets/PropArt (unused).meta
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+sysinfo.txt
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# web-upload copy (not part of the project)
+/GitHub_upload/
+
+# video editing files (not part of the project)
+/Video/

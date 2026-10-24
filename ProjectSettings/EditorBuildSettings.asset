@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 74425a0e0b54119408a702862106a90c
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cut1_Opening.unity
+    guid: bc3dc695bee041549b9b19c846e9b3fa
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1.unity
+    guid: b303c332bb072764ea3cd3ad0677dbba
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: 3156891e66606204e92b203f07e480d2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level3.unity
+    guid: df7ed7b4f506ee241b859b14dfbb2abd
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level4.unity
+    guid: f48619bf801f8d3478b5038b064cee12
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level5.unity
+    guid: 965494978f4cb204fa16a80ee3ada533
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cut2_Shelter.unity
+    guid: ac5957e6dc8d9d4478b24f5afccfaec5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level6.unity
+    guid: b0246c8efbda6434b8fa846968ee3f4d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level7.unity
+    guid: 588d492a06a9c744b96b4dbdc3bbdf64
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level8.unity
+    guid: 47f6a6e2a47fa174c89bda870a765831
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level9.unity
+    guid: cef617b2bcf1dac418afc91766ec3669
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level10.unity
+    guid: 3def529619f8485479b4114c06d047d7
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cut3_Spirit.unity
+    guid: 673f3a34a2b730846ae36d8ca1573591
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level11.unity
+    guid: 9c43ab6860197a64691c5675b50d64ae
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cut4_Ending.unity
+    guid: 4d8be723e78708a4eb7f405ce332096f
+  - enabled: 0
+    path: Assets/Scenes/DogCameraGame.unity
+    guid: a0ce38a185eb6084e91165cc6d67d159
+  - enabled: 1
+    path: Assets/Scenes/PetCamTest.unity
+    guid: a90b188a60b833545a546ba5d293fea1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

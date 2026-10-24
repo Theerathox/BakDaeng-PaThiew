@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a3783267e7cd6a4f9969d1cba267d57, type: 3}
+  m_Name: SoundBank
+  m_EditorClassIdentifier: 
+  bark: {fileID: 8300000, guid: f6b705f23d85b5b4e844d848116e2e32, type: 3}
+  sniff: {fileID: 8300000, guid: 6c12b9f33923a364bb95d164e486e1ca, type: 3}
+  lose: {fileID: 8300000, guid: 3c915b3cb1ce1074aa4c93bf1fb72868, type: 3}
+  zombieNear: {fileID: 8300000, guid: 194d6affe88a8114b9cc002557604a39, type: 3}
+  zombieKill: {fileID: 8300000, guid: eb863ebe5f07a9743bfc92a9ed7a3b76, type: 3}
+  radioMusic: {fileID: 8300000, guid: 92003a3bc8167cc49a33af4ee19bbfe2, type: 3}
+  day: {fileID: 8300000, guid: 4f23d12e935a07b43af31b7eec27ac56, type: 3}
+  night: {fileID: 8300000, guid: 87012f73dc26acc41a53015defba30b3, type: 3}
+  sfxVolume: 0.7
+  musicVolume: 0.3
